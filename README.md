@@ -1,9 +1,11 @@
-👋 Hi, I’m @Sai-Snigdha-M
+👋 Hi , I’m Sai Snigdha :-)
 
-💻 I’m a Software Engineering Intern with a strong passion for building clean, efficient, and user-focused software. 📈 I thrive on continuous learning and hands-on development, actively contributing to real-world projects while sharpening my skills. 🧠 I value purposeful code, thoughtful problem-solving, and collaborative engineering. 🤝 I'm driven to grow into a developer who not only delivers solutions—but adds lasting value to every product and team I work with.
+💻 Software Engineering Intern — focused on building smart
+🎯aiming to be the kind of dev who doesn’t just deliver tickets — but drives real impact on product and team
+🔧 Building with purpose, not just pushing code.
+🚀 Here for the team wins — not just the pull requests.
 
-### 📫 Connect With Me
-LinkedIn: www.linkedin.com/in/sai-snigdha-m
+### 🤝 Always open to connect and collaborate — [LinkedIn](https://www.linkedin.com/in/sai-snigdha-m)
 
 
 
